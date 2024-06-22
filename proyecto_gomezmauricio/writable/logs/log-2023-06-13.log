@@ -1,0 +1,456 @@
+INFO - 2023-06-13 00:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-13 00:03:04 --> Call to undefined function set_value()
+in APPPATH\Views\back\usuario\registro.php on line 25.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/usuario/registro', [], true)
+ 4 APPPATH\Controllers\registro_controller.php(38): view('back/usuario/registro', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\registro_controller->formValidation()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\registro_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-13 00:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-13 00:19:58 --> Undefined variable $datoo
+in APPPATH\Controllers\Panel_controller.php on line 19.
+ 1 APPPATH\Controllers\Panel_controller.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datoo', 'D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Controllers\\Panel_controller.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Panel_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-13 00:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 00:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-13 01:38:41 --> Undefined array key "password"
+in APPPATH\Views\back\usuario\edit_view.php on line 18.
+ 1 APPPATH\Views\back\usuario\edit_view.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Views\\back\\usuario\\edit_view.php', 18)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Views\\back\\usuario\\edit_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/usuario/edit_view', [], true)
+ 5 APPPATH\Controllers\Usuario_controller.php(30): view('back/usuario/edit_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuario_controller->singleUser('7')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-13 01:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:43:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 01:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-13 02:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-13 19:51:23 --> Invalid file: "back/producto/lista_productos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/producto/lista_productos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/producto/lista_productos', [], true)
+ 3 APPPATH\Controllers\Producto_controller.php(18): view('back/producto/lista_productos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 19:57:29 --> Invalid file: "back/producto/crear_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/producto/crear_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/producto/crear_producto', [], true)
+ 3 APPPATH\Controllers\Producto_controller.php(36): view('back/producto/crear_producto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 20:19:05 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(59): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 20:19:05 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\phpF2AB.tmp\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\phpF2AB.tmp\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\phpF2AB.tmp\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (:nombre_prod:, :imagen:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(59): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 20:19:24 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(59): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 20:19:24 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\php3C86.tmp\', \'2\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\php3C86.tmp\', \'2\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\php3C86.tmp\', \'2\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (:nombre_prod:, :imagen:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(59): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 20:21:12 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(59): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 20:21:12 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\phpE026.tmp\', \'3\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\phpE026.tmp\', \'3\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (\'alimento para perros\', \'D:\\\\xampp\\\\tmp\\\\phpE026.tmp\', \'3\', \'1000\', \'1200\', \'12\', \'1\', \'NO\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `imagen`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`) VALUES (:nombre_prod:, :imagen:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(59): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 20:30:18 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(74): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 20:30:18 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perros\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686688218_f0b3f76b910d58b64bed.webp\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perros\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686688218_f0b3f76b910d58b64bed.webp\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perros\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686688218_f0b3f76b910d58b64bed.webp\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (:nombre_prod:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:, :imagen:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(74): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 20:32:14 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(74): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 20:32:14 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perros\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686688334_560f79b11a8674e2c54a.webp\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perros\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686688334_560f79b11a8674e2c54a.webp\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perros\', \'1\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686688334_560f79b11a8674e2c54a.webp\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (:nombre_prod:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:, :imagen:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(74): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 21:03:22 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2767.
+ 1 SYSTEMPATH\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\Producto_controller.php(126): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->deleteproducto('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 21:27:26 --> Invalid file: "back/producto/editar_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/producto/editar_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/producto/editar_producto', [], true)
+ 3 APPPATH\Controllers\Producto_controller.php(91): view('back/producto/editar_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->singleproducto('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 22:45:39 --> Invalid file: "back/producto/editar_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/producto/editar_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/producto/editar_producto', [], true)
+ 3 APPPATH\Controllers\Producto_controller.php(91): view('back/producto/editar_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->singleproducto('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 22:47:08 --> Undefined variable $categorias
+in APPPATH\Views\back\producto\editar_producto.php on line 12.
+ 1 APPPATH\Views\back\producto\editar_producto.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categorias', 'D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Views\\back\\producto\\editar_producto.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Views\\back\\producto\\editar_producto.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/producto/editar_producto', [], true)
+ 5 APPPATH\Controllers\Producto_controller.php(91): view('back/producto/editar_producto', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->singleproducto('0')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 22:53:06 --> mysqli_sql_exception: Column 'categoria_id' cannot be null in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(124): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('0')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 22:53:06 --> Column 'categoria_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perro\', NULL, \'1000.00\', \'1200.00\', \'10\', \'1\', \'NO\', \'1686696786_4b0ff93a4919da424741.webp\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perro\', NULL, \'1000.00\', \'1200.00\', \'10\', \'1\', \'NO\', \'1686696786_4b0ff93a4919da424741.webp\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perro\', NULL, \'1000.00\', \'1200.00\', \'10\', \'1\', \'NO\', \'1686696786_4b0ff93a4919da424741.webp\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (:nombre_prod:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:, :imagen:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(124): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 22:55:11 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(124): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('0')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 22:55:11 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perro\', \'0\', \'1000.00\', \'1200.00\', \'10\', \'1\', \'NO\', \'1686696911_85a9f1c4e276733a7582.webp\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perro\', \'0\', \'1000.00\', \'1200.00\', \'10\', \'1\', \'NO\', \'1686696911_85a9f1c4e276733a7582.webp\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para perro\', \'0\', \'1000.00\', \'1200.00\', \'10\', \'1\', \'NO\', \'1686696911_85a9f1c4e276733a7582.webp\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (:nombre_prod:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:, :imagen:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(124): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:24:38 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Producto_controller.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Controllers\\Producto_controller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Producto_controller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Producto_controller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Producto_controller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:24:39 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Producto_controller.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Controllers\\Producto_controller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Producto_controller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Producto_controller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Producto_controller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:25:02 --> syntax error, unexpected variable "$data"
+in APPPATH\Controllers\Producto_controller.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Controllers\\Producto_controller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Producto_controller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Producto_controller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Producto_controller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:27:38 --> Class "App\Controllers\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:27:52 --> Class "App\Controllers\categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:28:26 --> Class "App\Controllers\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:30:49 --> Class "app\Models\Categorias_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:31:08 --> Class "app\Models\Categorias_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:35:30 --> Class "App\Controllers\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:36:07 --> Class "app\Models\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:36:23 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Models\Producto_model.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Models\\Producto_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Producto_model')
+ 3 APPPATH\Controllers\Producto_controller.php(38): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Producto_model')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:37:09 --> Class "app\Models\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-13 23:54:23 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(78): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 23:54:23 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para gatos\', \'4\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686700462_5c8b7eeaa3ac6502d88c.png\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para gatos\', \'4\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686700462_5c8b7eeaa3ac6502d88c.png\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (\'alimento para gatos\', \'4\', \'1000\', \'1200\', \'12\', \'1\', \'NO\', \'1686700462_5c8b7eeaa3ac6502d88c.png\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `productos` (`nombre_prod`, `categoria_id`, `precio`, `precio_vta`, `stock`, `stock_min`, `eliminado`, `imagen`) VALUES (:nombre_prod:, :categoria_id:, :precio:, :precio_vta:, :stock:, :stock_min:, :eliminado:, :imagen:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Producto_controller.php(78): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:54:56 --> Class "App\Controllers\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:56:38 --> Class "app\Models\Categoria_model" not found
+in APPPATH\Controllers\Producto_controller.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 23:56:47 --> Undefined variable $categoriasmodel
+in APPPATH\Controllers\Producto_controller.php on line 36.
+ 1 APPPATH\Controllers\Producto_controller.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categoriasmodel', 'D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Controllers\\Producto_controller.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->creaproducto()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

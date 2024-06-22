@@ -1,0 +1,71 @@
+.larger-icon{
+    font-size: 5em;
+}
+
+.centered-link {
+    display: block;
+    text-align: center !important;
+  }
+
+  @font-face {
+    font-family: 'VinaSans-Regular';
+    src: url('../fonts/VinaSans-Regular.ttf') format('truetype');
+  }
+
+  .title{
+    font-family: 'VinaSans-Regular', sans-serif;
+    font-size: 58px;
+    text-align: center;
+    margin-top: 100px;
+    color: green;
+  }
+
+  .productos-destacados {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    backdrop-filter: blur(5px);
+    padding: 20px;
+    border-radius: 6px;
+  }
+
+  .productos-destacados h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+  }
+
+  .content {
+    margin-bottom: 50px;
+  }
+
+  footer .row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .accordion-title {
+    cursor: pointer;
+  }
+  
+  .accordion-content {
+    display: none;
+  }
+  
+  .accordion-item.active .accordion-content {
+    display: block;
+  }
+
+  .contenido {
+    margin-bottom: 150px;
+ }
+
+ .icono-footer {
+  color: white;
+  margin-right: 10px;
+}
+
+.producto-imagen {
+  width: 10px; /* Ajusta el tamaño de la imagen según tus necesidades */
+  height: 10px; /* Mantiene la proporción de aspecto de la imagen */
+}
+

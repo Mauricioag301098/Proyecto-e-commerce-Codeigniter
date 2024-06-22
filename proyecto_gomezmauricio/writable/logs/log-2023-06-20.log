@@ -1,0 +1,598 @@
+INFO - 2023-06-20 00:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:28:50 --> Cart Class Initialized
+INFO - 2023-06-20 00:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:29:29 --> Cart Class Initialized
+INFO - 2023-06-20 00:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:30:20 --> Cart Class Initialized
+INFO - 2023-06-20 00:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:31:19 --> Cart Class Initialized
+INFO - 2023-06-20 00:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:33:57 --> Cart Class Initialized
+INFO - 2023-06-20 00:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-20 00:51:19 --> Call to undefined method CodeIgniter\Router\RouteCollection::any()
+in APPPATH\Config\Routes.php on line 63.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 00:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:52:44 --> Cart Class Initialized
+INFO - 2023-06-20 00:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:52:47 --> Cart Class Initialized
+INFO - 2023-06-20 00:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:53:14 --> Cart Class Initialized
+INFO - 2023-06-20 00:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:54:53 --> Cart Class Initialized
+INFO - 2023-06-20 00:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 00:54:59 --> Cart Class Initialized
+INFO - 2023-06-20 01:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:01:47 --> Cart Class Initialized
+INFO - 2023-06-20 01:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:01:52 --> Cart Class Initialized
+INFO - 2023-06-20 01:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:02:08 --> Cart Class Initialized
+INFO - 2023-06-20 01:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:02:36 --> Cart Class Initialized
+INFO - 2023-06-20 01:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:11:45 --> Cart Class Initialized
+INFO - 2023-06-20 01:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:12:32 --> Cart Class Initialized
+INFO - 2023-06-20 01:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 01:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-20 19:30:01 --> Undefined variable $stock_min
+in APPPATH\Views\front\catalogo.php on line 38.
+ 1 APPPATH\Views\front\catalogo.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stock_min', 'D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Views\\front\\catalogo.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\xampp\\htdocs\\proyecto_gomezmauricio\\app\\Views\\front\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/catalogo', [], true)
+ 5 APPPATH\Controllers\Home.php(53): view('front/catalogo')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 19:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-20 19:31:05 --> syntax error, unexpected identifier "href", expecting "," or ";"
+in APPPATH\Views\front\catalogo.php on line 44.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/catalogo', [], true)
+ 3 APPPATH\Controllers\Home.php(53): view('front/catalogo')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 19:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:07 --> Cart Class Initialized
+INFO - 2023-06-20 19:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:14 --> Cart Class Initialized
+INFO - 2023-06-20 19:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:24 --> Cart Class Initialized
+INFO - 2023-06-20 19:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 19:45:26 --> Cart Class Initialized
+INFO - 2023-06-20 20:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-20 20:12:35 --> Call to a member function isValid() on null
+in APPPATH\Controllers\Producto_controller.php on line 176.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-20 20:13:10 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(175): CodeIgniter\Model->update('23', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:13:10 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(175): CodeIgniter\Model->update('23', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-20 20:13:54 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:13:54 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:13:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-20 20:13:58 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:13:58 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-20 20:26:00 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:26:00 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-20 20:28:03 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:28:03 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-20 20:29:01 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:29:01 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'3500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'3500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para gatos\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'3500.00\', `stock` = \'10\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'23\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('23', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('23')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-20 20:33:18 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`)) in D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `product...', 0)
+#1 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 D:\xampp\htdocs\proyecto_gomezmauricio\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\proyecto_gomezmauricio\system\BaseModel.php(943): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\proyecto_gomezmauricio\system\Model.php(756): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\proyecto_gomezmauricio\app\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('30', Array)
+#8 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('30')
+#9 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+#10 D:\xampp\htdocs\proyecto_gomezmauricio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\proyecto_gomezmauricio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-20 20:33:18 --> Cannot add or update a child row: a foreign key constraint fails (`petshop`.`productos`, CONSTRAINT `productos_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categorias` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `productos` SET `nombre_prod` = \'alimento para perros\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'12\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'30\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `productos` SET `nombre_prod` = \'alimento para perros\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'12\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'30\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `productos` SET `nombre_prod` = \'alimento para perros\', `categoria_id` = NULL, `precio` = NULL, `precio_vta` = \'1500.00\', `stock` = \'12\', `stock_min` = \'1\', `eliminado` = NULL
+WHERE `productos`.`id` IN (\'30\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `productos` SET `nombre_prod` = :nombre_prod:, `categoria_id` = :categoria_id:, `precio` = :precio:, `precio_vta` = :precio_vta:, `stock` = :stock:, `stock_min` = :stock_min:, `eliminado` = :eliminado:
+WHERE `productos`.`id` IN :productos.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(396): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Producto_controller.php(174): CodeIgniter\Model->update('30', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Producto_controller->modifica('30')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 20:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:41:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 20:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:04:57 --> Cart Class Initialized
+INFO - 2023-06-20 21:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:08:38 --> Cart Class Initialized
+INFO - 2023-06-20 21:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:11:33 --> Cart Class Initialized
+INFO - 2023-06-20 21:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:11:35 --> Cart Class Initialized
+INFO - 2023-06-20 21:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:48:28 --> Cart Class Initialized
+INFO - 2023-06-20 21:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:48:32 --> Cart Class Initialized
+INFO - 2023-06-20 21:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:48:34 --> Cart Class Initialized
+INFO - 2023-06-20 21:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:19 --> Cart Class Initialized
+INFO - 2023-06-20 21:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:20 --> Cart Class Initialized
+INFO - 2023-06-20 21:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:38 --> Cart Class Initialized
+INFO - 2023-06-20 21:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:40 --> Cart Class Initialized
+INFO - 2023-06-20 21:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 21:49:43 --> Cart Class Initialized
+INFO - 2023-06-20 22:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:07:10 --> Cart Class Initialized
+INFO - 2023-06-20 22:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:25:30 --> Cart Class Initialized
+INFO - 2023-06-20 22:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:25:38 --> Cart Class Initialized
+INFO - 2023-06-20 22:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:25:42 --> Cart Class Initialized
+INFO - 2023-06-20 22:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:27:33 --> Cart Class Initialized
+INFO - 2023-06-20 22:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:27:38 --> Cart Class Initialized
+INFO - 2023-06-20 22:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:27:42 --> Cart Class Initialized
+INFO - 2023-06-20 22:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:28:31 --> Cart Class Initialized
+INFO - 2023-06-20 22:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:28:35 --> Cart Class Initialized
+INFO - 2023-06-20 22:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:21 --> Cart Class Initialized
+INFO - 2023-06-20 22:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:24 --> Cart Class Initialized
+INFO - 2023-06-20 22:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:45 --> Cart Class Initialized
+CRITICAL - 2023-06-20 22:48:45 --> Class "App\Controllers\Productos_model" not found
+in APPPATH\Controllers\Ventas_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Ventas_controller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 22:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:48:51 --> Cart Class Initialized
+INFO - 2023-06-20 22:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:02 --> Cart Class Initialized
+INFO - 2023-06-20 22:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:02 --> Cart Class Initialized
+INFO - 2023-06-20 22:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:06 --> Cart Class Initialized
+INFO - 2023-06-20 22:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:09 --> Cart Class Initialized
+INFO - 2023-06-20 22:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:12 --> Cart Class Initialized
+INFO - 2023-06-20 22:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:49:17 --> Cart Class Initialized
+INFO - 2023-06-20 22:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:52:39 --> Cart Class Initialized
+INFO - 2023-06-20 22:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 22:52:45 --> Cart Class Initialized
+INFO - 2023-06-20 23:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:05:33 --> Cart Class Initialized
+INFO - 2023-06-20 23:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:05:35 --> Cart Class Initialized
+INFO - 2023-06-20 23:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:05:38 --> Cart Class Initialized
+CRITICAL - 2023-06-20 23:05:38 --> syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\back\carrito\carrito_parte_view.php on line 93.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/carrito/carrito_parte_view', [], true)
+ 3 APPPATH\Controllers\carrito_controller.php(46): view('back/carrito/carrito_parte_view')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\carrito_controller->muestra()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carrito_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 23:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:06:18 --> Cart Class Initialized
+CRITICAL - 2023-06-20 23:06:18 --> syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\back\carrito\carrito_parte_view.php on line 93.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/carrito/carrito_parte_view', [], true)
+ 3 APPPATH\Controllers\carrito_controller.php(46): view('back/carrito/carrito_parte_view')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\carrito_controller->muestra()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carrito_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 23:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:06:29 --> Cart Class Initialized
+INFO - 2023-06-20 23:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:16 --> Cart Class Initialized
+INFO - 2023-06-20 23:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:17 --> Cart Class Initialized
+INFO - 2023-06-20 23:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:23 --> Cart Class Initialized
+INFO - 2023-06-20 23:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:26 --> Cart Class Initialized
+INFO - 2023-06-20 23:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:33 --> Cart Class Initialized
+INFO - 2023-06-20 23:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:28:34 --> Cart Class Initialized
+INFO - 2023-06-20 23:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:29:35 --> Cart Class Initialized
+INFO - 2023-06-20 23:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:29:38 --> Cart Class Initialized
+INFO - 2023-06-20 23:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:29:39 --> Cart Class Initialized
+CRITICAL - 2023-06-20 23:29:39 --> Class "App\Controllers\Productos_model" not found
+in APPPATH\Controllers\Ventas_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Ventas_controller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 23:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:30:09 --> Cart Class Initialized
+INFO - 2023-06-20 23:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:30:11 --> Cart Class Initialized
+CRITICAL - 2023-06-20 23:30:11 --> Class "App\Controllers\Productos_modelo" not found
+in APPPATH\Controllers\Ventas_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Ventas_controller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-20 23:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:30:23 --> Cart Class Initialized
+INFO - 2023-06-20 23:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:40:24 --> Cart Class Initialized
+INFO - 2023-06-20 23:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-20 23:59:36 --> Cart Class Initialized
+CRITICAL - 2023-06-20 23:59:36 --> Class "App\Controllers\Productos_modelo" not found
+in APPPATH\Controllers\Ventas_controller.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Ventas_controller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

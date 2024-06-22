@@ -1,0 +1,19 @@
+/* Color del texto */
+.list-group-item a {
+    color: #555; /* Gris claro */
+    text-decoration: none; /* Quita el subrayado del texto */
+}
+
+/* Color de fondo de la barra cuando se selecciona una categoría */
+.list-group-item.active {
+    background-color: #525455; /* Gris claro */
+    border-color: #525455; /* Gris claro */
+}
+
+/* Color del texto cuando se selecciona una categoría */
+.list-group-item.active a {
+    color: #fff !important; /* Blanco */
+    text-decoration: none; /* Quita el subrayado del texto */
+}
+
+

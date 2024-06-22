@@ -1,0 +1,14 @@
+--Admin-------------
+
+correo:mauricioagustingomez@gmail.com
+contraseña:12345
+
+
+
+--Clientes-----------
+
+correo:Brenda.garcia@gmail.com
+contraseña:danza2023
+
+correo:jabfryyy@gmail.com
+contraseña:jabfry2023
